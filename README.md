@@ -13,3 +13,4 @@ $ gibo --version
 
 ### JetBrains.gitignore
 - ADD: .idea/vcs.xml
+- ADD: .idea/misc.xml
