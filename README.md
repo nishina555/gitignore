@@ -5,11 +5,11 @@ $ brew install gibo
 $ gibo --version
 ```
 
-
 ## My gitignore list
-- gibo JetBrains Rails >> Rails-JetBrains.gitignore
+- gibo JetBrains >> JetBrains.gitignore
+- gibo Rails     >> Rails.gitignore
 
 ## Update information
 
-### Rails-JetBrains.gitignore
+### JetBrains.gitignore
 - ADD: .idea/vcs.xml
