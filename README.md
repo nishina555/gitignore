@@ -17,3 +17,9 @@ $ gibo --version
 
 ## Note
 - Can't ignore '.idea/workspace.xml'
+
+## How to refrect the latest gitignore
+- git rm -r --cached . # delete the git cash
+- git add .
+- git commit -m "some comment"
+- git push origin master
